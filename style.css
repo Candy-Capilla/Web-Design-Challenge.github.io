@@ -1,0 +1,25 @@
+.logo{
+    background-color: rgb(9, 0, 128);
+    color: white !important; /*!important overrides other styles*/
+    padding: 10px;
+}
+
+.bar-background{
+    background-color: lightgray;
+}
+
+.Bigimage{
+    width: 350px;
+    float: left;
+}
+
+.Smallimage{
+    width: 250px;
+ 
+}
+
+.compimage{
+    width: 700px; 
+    float: left;
+}
+
